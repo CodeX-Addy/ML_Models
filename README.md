@@ -1,2 +1,4 @@
-# ML_Models
-ML models are a great tool to help predict future events. There are an increasing number of real-world tasks, decisions, and objects that can be represented mathematically as repeatable, step-by-step processes or pixel-by-pixel images, and then converted into code that a machine can act on.
+# Why stock market prediction is importanat?
+• Removes the investment bias
+• Develops the habit of complete analysis
+• Minimises losses
